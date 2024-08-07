@@ -51,7 +51,17 @@ Windows :
 - Wie viel RAM?  -  2.00 GB RAM
 - Welche Windows Version?   -   Windows 10 & Windows 10 pro
 
-=Linux :
+Linux :
 
 - GNOME Version?   -   GNOME 44
-- Name der Linux Distribution?   -   Ubuntu & Mint 
+- Name der Linux Distribution?   -   Ubuntu & Mint
+
+
+
+***Gelerntes***
+
+- Wie man eine Virtuelle Maschine benutzt & bedient
+- Wie man eine ISO-Datei downloaded
+- Problemlösung bei Virtuellen Maschinen
+- Was eine Virtuelle Maschine ist
+
