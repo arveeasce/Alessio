@@ -7,7 +7,6 @@ Eines Tages gab man mir den Auftrag eine Virtuelle Maschine mit Betriebssystemen
 
 
 ![image](https://github.com/user-attachments/assets/a150aab4-ff05-471d-b29a-304eed65e5d7)
-![[Pasted image 20240806143334.png]]
 
 
 Nachdem ich mir ein kleines Wissen erarbeitet hatte, lud ich mir Virtual Box, ein Programm zum starten einer Virtuellen Maschine, herunter und installierte eine Windows 10 ISO-Datei und versuchte mein bestes, die Virtuelle Maschine zu starten. Ich erhielt aber sehr oft eine Error Meldung und wusste das ich etwas falsch gemacht hatte. Also fragte ich meine Oberstift Dario, ob er mir helfen konnte. Dies konnte er auch, da ich die ISO-Datei an einen falschen Ort hochgeladen hatte, sodass das Programm nicht starten konnte. Diesen Fehler konnten wir nun aber beheben. Wir gaben der Virtuellen Maschine immer etwa zwischen 1-3 Prozessoren und etwa 50 GB damit diese laufen konnte. Zum Schluss starteten wir die Maschine natürlich auch noch.
