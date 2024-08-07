@@ -17,7 +17,7 @@ Nachdem ich mir ein kleines Wissen erarbeitet hatte, lud ich mir Virtual Box, ei
 Wir mussten danach auch Windows erst noch aufstarten, was aber nicht ein grosses Problem war, da ich schon Erfahrung von früher damit hatte. Als dann die Virtuelle Maschine endlich fertig aufgestartet hatte, hatte ich direkt einen Auftrag zu tun. Ich musste herausfinden was für ein Prozessormodell, wie viel RAM und welche Windows Version die Virtuelle Maschine hatte. Ich nutzte die Einstellung um diese Aufgaben zu erledigen, da dort alles stand was ich benötigte.
 
 
-                                                              ![image](https://github.com/user-attachments/assets/7b525a0b-2cf9-4cd6-b5b2-46e5aba4e40b)
+![image](https://github.com/user-attachments/assets/7b525a0b-2cf9-4cd6-b5b2-46e5aba4e40b)
 
 
 
