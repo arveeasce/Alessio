@@ -34,7 +34,8 @@ Somit hatte ich fast alle Aufgaben erledigt. Ich musste nur noch LibreOffice auf
 
 Nachdem ich die Virtuelle Maschine mit Windows 10 wieder geschlossen hatte, war meine Aufgabe nun das selbe mit Linux Ubuntu zu tun. Also lud ich mir die ISO-Datei von Linux runter und versuchte sie zum laufen zu bekommen. Ich führte die ISO-Datei dieses Mal richtig ein und versuchte es, aber es ging nicht. Ich kam bei jedem versuch auf einen Blackscreen mit einem Kreuz als Cursor mit dem man nichts tun konnte. Irgendetwas musste nicht stimmen, weshalb ich nach einer Lösung suchte, aber leider keine fand.
 
-![[Pasted image 20240806153814.png]]
+![image](https://github.com/user-attachments/assets/cac6af12-e0c0-46cc-9732-3f8318447d3a)
+
 
 
 Also entschloss ich mich zu meinem Oberstift Dario zu gehen und ihn um Hilfe fragen. Er suchte nach einem Fehler, fand aber auch keinen. Vielleicht war die ISO-Datei beschädigt, aber wir konnten nichts tun. Also gab Dario mir den Auftrag einfach Linux Mint herunter zu laden. Ich setzte es auf und da begriff Dario dass es ein Problem gab. Linux Mint hatte nämlich schon LibreOffice automatisch installiert gehabt und das war einer meiner Aufträge, weshalb Linux Mint nicht funktionierte als Alternative. Also liessen wir das mit Linux sein.
