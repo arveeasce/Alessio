@@ -23,7 +23,8 @@ Wir mussten danach auch Windows erst noch aufstarten, was aber nicht ein grosses
 
 Somit hatte ich fast alle Aufgaben erledigt. Ich musste nur noch LibreOffice auf die Virtuelle Maschine herunterladen. Diese Aufgabe war auch leicht, da ich nur einen Browser öffnen musste und LibreOffice herunterladen musste und danach auch diese Aufgabe erledigt war.
 
-![[Pasted image 20240806152134.png]] 
+![image](https://github.com/user-attachments/assets/a1b1ad1e-07bd-463f-a0a6-b741a86fc667)
+
 
 
 
