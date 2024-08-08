@@ -50,7 +50,10 @@ Windows :
 - Prozessormodell?  -  Prozessormodell : 13th Gen Intel Core 17-1355U 2.61 GHz
 - Wie viel RAM?  -  2.00 GB RAM
 - Welche Windows Version?   -   Windows 10 & Windows 10 pro
+- Build Nummer?   -   Build 19045.3803
+- Ip-Adresse   -   146.4.71.162
 
+  
 Linux :
 
 - GNOME Version?   -   GNOME 44
