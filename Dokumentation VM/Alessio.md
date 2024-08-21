@@ -1,6 +1,6 @@
 # Auftrag Virtuelle Maschine mit Betriebssystemen erstellen und dokumentieren
 
-*Aller Anfang ist schwer** 
+*Aller Anfang ist schwer*
 
 Eines Tages gab man mir den Auftrag eine Virtuelle Maschine mit Betriebssystemen zu erstellen und zu dokumentieren. Ich wusste aber kaum was eine Virtuelle Maschine war, geschweige dem wusste ich noch weniger wie man eine mit einem Betriebssystem zum funktionieren bringen würde. Deshalb recherchierte ich schnell was überhaupt eine Virtuelle Maschine war und was man mit ihr tun kann. Ich fand heraus, dass eine Virtuelle Maschine wie eine Art Computing-Umgebung ist, die als isoliertes System mit CPU, Speicher, Netzwerkschnittstelle und Storage fungiert und aus einem Pool von Hardwareressourcen erstellt werden kann. Mit diesen Virtuellen Maschinen kann man ein neues Betriebssystem testen, ohne das gerade genutzte zu ändern oder es zu beeinträchtigen. Auch ist eine Virtuelle Maschine sehr nützlich für Malware-Forscher die häufig neue Maschinen zum Testen schädlicher oder kaputten Programme benötigen. 
 
