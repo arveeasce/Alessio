@@ -44,13 +44,13 @@ Also entschloss ich mich zu meinem Oberstift Dario zu gehen und ihn um Hilfe fra
 
 ***Aufträge & Lösungen***
 
-==Windows :== 
+Windows :
 
 - Prozessormodell?  -  Prozessormodell : 13th Gen Intel Core 17-1355U 2.61 GHz
 - Wie viel RAM?  -  2.00 GB RAM
 - Welche Windows Version?   -   Windows 10 & Windows 10 pro
 
-==Linux :== 
+Linux :
 
 - GNOME Version?   -   GNOME 44
 - Name der Linux Distribution?   -   Ubuntu & Mint 
